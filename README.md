@@ -5,8 +5,12 @@ This is the data repository for [CNAViz](https://github.com/elkebir-group/cnaviz
 ```
 |
 |– analysis
-|   |— ASCAT: .R script to run ASCAT aspcf
-|   |— HATCHet: .ini files to run HATCHet
+|   |- Simulation:
+|   |— Casasent:
+|       |- ASCAT: .R script to run ASCAT aspcf
+|   	|— HATCHet: .ini files to run HATCHet
+|	    |- output_PX: output files after running HATCHet with the HATCHet clustering, where X is the patient number
+|	    |- output_HPX: output files after running HATCHet with the HATCHet + CNAViz refined clustering,  where X is the patient number 
 |   
 |- figures
 |   |— 
