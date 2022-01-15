@@ -26,9 +26,9 @@ This is the data repository for [CNAViz](https://github.com/elkebir-group/cnaviz
 Screencasts:
 - [Demo Video](https://youtu.be/svOtiBadekw)
 - Simulated Data (`n2_s4669`):
-	- [De novo clustering](https://youtu.be/-qsI2Bl1TXA) 
-	- [HATCHet + CNAViz](https://youtu.be/X95U7DjUVzQ)
-	- [ASCAT + CNAViz](https://youtu.be/lYKLyNePrQY)
+	- [De novo clustering](https://youtu.be/FHmFomNjb5E)
+	- [HATCHet + CNAViz](https://youtu.be/7_S-KM-PDfI)
+	- [ASCAT + CNAViz](https://youtu.be/YtfEvFoNCNk) 
 
 
 Input Segmentations to CNAViz:
