@@ -29,6 +29,21 @@ Screencasts:
 	- [HATCHet + CNAViz](https://youtu.be/X95U7DjUVzQ)
 	- [ASCAT + CNAViz](https://youtu.be/lYKLyNePrQY)
 
+
+Input Segmentations to CNAViz:
+- Simulated (`n2_s4669`)
+	- [HATCHet Input](https://github.com/elkebir-group/cnaviz-paper/blob/master/analysis/simulation/hatchet/rand_index_n2_s14584/hatchet.seg.ucn_cn_annotated_maxmin.bb)
+	- [ASCAT Input](https://github.com/elkebir-group/cnaviz-paper/blob/master/analysis/simulation/ascat/rand_index_n2_s4669/s4669_aspcf_cnavizin.txt)
+	- [HATCHet + CNAViz Output](https://github.com/elkebir-group/cnaviz-paper/blob/master/analysis/simulation/hatchet/rand_index_n2_s4669/hatchet.seg.ucn_20211231120537.tsv)
+	- [ASCAT + CNAViz Output](https://github.com/elkebir-group/cnaviz-paper/blob/master/analysis/simulation/ascat/rand_index_n2_s4669/k4_01090_02008_00506035_00504055_cn_annotated_maxmin.bb)
+
+- Real Casasent Data
+	- [HATCHet Input](https://github.com/elkebir-group/cnaviz-paper/blob/master/analysis/Casasent/hatchet/output_P5/results/best.seg.ucn)
+		- For a patient `X`, the input data can be found at `analysis/Casasent/hatchet/output_PX/results/best.seg.ucn`. The link is provided to Patient 5. 
+	- [HATCHet + CNAViz Output](https://github.com/elkebir-group/cnaviz-paper/tree/master/analysis/Casasent/hatchet/output_HP5_v4/bbc)
+		- For a patient `X`, the output data can be found at `analysis/Casasent/hatchet/output_HPX_v*/bbc/bulk.bbc`. The `bulk.seg` file in the same folder is computed from the `.bbc` file using the `segment_bins.py` script in the `/hatchet` folder. The link is provided to Patient 5.  
+
+
 We use existing software [ASCAT](https://github.com/VanLoo-lab/ascat) and [HATCHet](http://compbio.cs.brown.edu/hatchet/README.html#usage). 
 
 
