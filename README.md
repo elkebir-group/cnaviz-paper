@@ -24,7 +24,7 @@ This is the data repository for [CNAViz](https://github.com/elkebir-group/cnaviz
 ```
 
 Screencasts:
-- [Demo Video](https://youtu.be/svOtiBadekw)
+- [Demo Video](https://youtu.be/nU8DTJIJEZ4)
 - Simulated Data (`n2_s4669`):
 	- [De novo clustering](https://youtu.be/FHmFomNjb5E)
 	- [HATCHet + CNAViz](https://youtu.be/7_S-KM-PDfI)
